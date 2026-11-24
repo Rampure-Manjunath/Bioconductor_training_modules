@@ -15,5 +15,7 @@ Install the required CRAN and Bioconductor packages before running the script:
 install.packages(c("BiocManager", "remotes", "tidyverse", "hexbin", "patchwork", "gridExtra", "lubridate"))
 BiocManager::install(c("SummarizedExperiment", "tidySummarizedExperiment"))
 
+```
+
 ## References
 https://carpentries-incubator.github.io/bioc-intro/index.html
